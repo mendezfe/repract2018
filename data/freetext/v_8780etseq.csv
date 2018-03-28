@@ -1,0 +1,119 @@
+PaperID,lfdn,reasoning
+4,30,"no one cares 'how' you developed, just that you have your specifications. there are also too many personalities that no one would use it anyway"
+5,35,Document driven approaches are decreasing in relevance. 
+6,122,"If we could see how ambiguous documentation can affect a software project, perhaps software industry could be persuaded to do a better requirements documentation."
+16,73,I don't know what techniques will be used
+18,153,because it can benefit the reusability of solutions
+20,57,"If an analyst can communicate well with domain experts and users, if he can analyze what he heard and organize his own thoughts logically, he can create a domain model. I am not sure I trust an analyst who needs a method to explain him how to do it..."
+21,37,"it is limited to  a company , if it would be a survey with many companies it would have more validity"
+29,11,No need in my environment.
+31,7,Assumes that high-level goals and requirements are hierarcical. They are not in practice. They are many-to-many and attempts to make them hierarchical make things worse.
+40,135,"Traceability is not really important or used in all the companies that I worked at. Also, using a small data set does not sound interesting."
+41,115,Quantitative analysis of usability is confusing and misleding
+44,101,"not for all, some is, some not."
+53,93,"I selected the option 'Worthwhile', so I consider it important."
+55,149,I am not convinced that documenting inspections is a good way to improve defect discovering.
+56,9,Most engineers are bad writers but good readers. Most projects use specific wocabulary. Automated analysis would do more harm than good.
+57,98,There should be a wider approach to support impact analysis.
+58,74,I'm not sure how I would apply this research as I don't understand what the outcome would be.
+82,8,"Form specification would solve a lot of problem, however I do not know any industry project which could specifiy the system with formal language. Yes we need a more dynamic way of specifiying our systems"
+85,21,Very special for domain and land. Genral applicability of results not sure
+87,125,"It is very difficult to define a structure to describe requirements that could make possible to extract feature models. The effort to do that would be high, and practitioners would use this this to break the problem in small parts, in order to understand "
+89,79,"As a practioner, I prefer learning about the answers than learning about the problems we all know we have."
+90,147,"In my experience, to use cross-references they would not help me to identitfy conflicting requirements, because to the industries or customer that is not importat, they focus to get finished their project. There are too little bit places that they matter "
+95,47,Not sure if we need a dedicated analyst to actually validate the output of the tool 
+108,145,impractical as old solutions may not apply or be hard to find.
+125,141,"In my experience, most modeling language research never goes beyond the PhD lab. It may be valuable eventually, but this needs application before asserting its utility."
+127,23,"creativity ist nicht der entscheidende Punkt, eher geht es um Kenntnis der Probreme eines Anwendungsbereichs"
+127,91,i am not clear not this
+127,120,It does not make sense for me. 
+132,88,"Too many different personal opinions, different standards in different industries"
+138,6,relatively uninteresting
+143,116,To me it is unclear how the self-understanding of product managers is a beneficial input for the education of product managers. More relevant would be the problems that hinder product manager from doing their work effectively.
+143,139,Better to have involving than from paper work
+162,129,"It looks as management problem, wrong person on wrong place and and doesn't general improve the requirement process. "
+163,15,"Too technical, I even do not know what u are talking about. We as REs do not take to hard into consideration what technology to be used nor do we prefer certain tools. As well: we think in requirements and not in solutions"
+167,84,"Sorry, I don't understand well this topic... If the machine is a project, then it should have this experiment to test its efectiveness"
+169,13,Didn't really understand what was going on here.
+169,26,It is not clear to me how simple  data  (whatever that means) can help to create requirements or just recommendations.
+169,80,Sounds more like a specialised piece of analytics research for which is a field in its own right. We have specialists that do this work.
+179,51,I think it might be a waste of time and a result that is not applicable to any greater extent. But who knows?
+180,127,The product that we deliver is not a web page.
+183,146,Fluffy.
+191,126,"Usually, one mind is the head of the project. This person gives the direction, thus s/he is the only person which needs to align the different between the requirements and the customer needs."
+196,27,It's too subjective
+197,43,I consider that domain professionals are better placed to recommend and oversight the rehabilitation process (human interactions still important I guess ;)
+197,50,This is a very narrow topic (on its own in is worthwile) ... however is there a special method for eliciting and modeling needed? Why not take an existing on?
+198,53,keyword AI: how can requirements for AIs be defined?
+201,48,the level at which architects work and the magnitude of software system projects does not always justify the means
+201,124,It's not a real lower rating. I only voted in a higher way the papers that I would read first considering to have a  short time  at job. I didn't rate some papers for that too but I think that all of them could be really interesting.
+206,108,"Requirements brainstorming sessions are not that frequent and, furthermore, I do not believe that most interesting ideas in brainstorming necessarily come from people with a knowledge of the domain. Ideas in brainstorming come from exchanging between peop"
+209,46,Each project is very different and is impacted by a multitude of variables that are not consistent across all industry domains and corporation operations. This would make it very diificult to design an algorithm that can reliably predict integration bugs
+213,40,I dont see a value in designing new notations with novices.  Either we train them in a specific notation or we let them use their one intuitive notation and translate in a model language. 
+214,132,The industry has never go too far from natural language specifications. 
+215,134,automatic extracted requirement needs to reviewed again by person.
+219,123,I have no interest in app store feedback.  Seem a very tenious link to RE.
+220,12,Too case-specific
+222,97,not relevant for my work
+222,102,"The prerequisites from applying the investigated method are rarely met. It is like an investigation  Given the assumption that humans can fly, what would be the effect on CO_2 polution "
+224,133,It is  not necessary
+224,144,Because the regulations are changed
+228,114,This is not clearly understood to me
+232,140,I don't think evolution prediction could be reduced to a metric-based approach. This could be too simplistic for a complex phenomenon.
+234,5,This seems restrictive. I am not interested in data supply chains.
+240,61,I can't see the value of such a case study
+241,94,Not so important to all resources.
+242,71,Students do not yey have the skills to contribuye meaningfully.
+242,90,Real scenario would provide best results and conclusions
+248,54,Preferring experiment for skilled people
+249,89,"because sometimes is not easy understand structured requirements models. processes and images, if they are simple, are easy to understand"
+253,119,Don't know what social adaptation is and how is it related to real-word software development.
+257,10,"Detailed priorization methods a Never Applied in practice because effort much too high. Usually it is pretty fast and easy, to decide the implementation order of the reqs. Through personal communication e.g. in a Meeting with some engineers and managers "
+258,36,Dont see the big benefit because I see the consistency less as a method topic than a resource topic. Ofen too less capacity is available to keep consistency. 
+277,45,"The easiest answer is, that this doesn't affect my daily business and i'm sure that there are already approaches existing."
+278,118,I cannot see how such a study would benefit me and the area in which I work.
+279,78,Distraction from the goal
+283,31,I am not sure of how this can help an analyst working on a commercial application.
+286,128,It's a work that human beings can do without a high technology level involved.
+287,117,"In my opinion, this will not work. Additionally, this leads to promises which will nto be satisfied."
+288,82,"Sorry, I don't know..."
+294,65,feedback loops in CR systems are already common practice
+296,104,"Advances in technology and changes in society are rapid, systems need to be able to keep up with it."
+299,152,.
+301,28,i cannot imagine any sensefull use of possible results in the reality of software engineering
+304,41,NFRs are not that important after all and current prosa-based methods are sufficient.  Modeling language for NFRRs is too much!
+305,95,The decision of which feature next is not based on uncertainty but on an economic or technical risk view as e.g. in WSJF.
+307,110,I do not understand the question.  No idea/No opinion  option was not available.
+311,68,Not too relevant in my industry.
+316,151,for me it's too general a piece of research with no use for me. 
+330,33,It's always important to have a clear prioritization mechanism so we don't get additional conflicts and frustrations
+333,105,Do not understand the he problem with safety requirement.
+334,34,"Availability is only one of many NFRs, and I don't see why this one should receive special attention."
+334,44,These studies already exist
+338,52,For us it is important to continiously check if the requirements are still up to date. 
+351,86,uncertainty on uncertainty - not a good approach
+357,62,"Worthwile to research, but the approaches might be extremely different in each company or engineering environment. If standard patterns can be identified, it could be very interesting from a Test and QM perspective, but not really essential to RM. "
+358,42,Traceability is not a high-priority activity in Requirements Engineering.
+360,76,"I do not see in practice use case specifications as software artifacts to which software engineers return to perform changes, normally they are used just once as initial specifications"
+366,59,"Because it is assessing the usefulness of a particular diagramming tool, and in particular with students. It would be more relevant assessing the modeling capabilities of a diagramming notation, whatsoever the tool, by practitioners with expertise on diag"
+366,111,"Agile approach, I do not see this as applicable (at the moment) in the automotive industry "
+368,72,"The subject looks obscure to me, so the benefits for performing such research "
+375,70,probably because of my own attitude.
+380,66,Not interesting for my working environment.
+380,85,Formal specifications (that I've worked extensively with myself in an industrial context) are usually way too advanced compared to the real-world problems that most product managers struggle with
+381,58,pointless. Clip on modules to a complex set of goals cannot be orchestrated to be as robust as the original goal
+386,32,This seems an overkill and the expected outcome does not appear to be justifying the efforts.
+388,55,"huge effort and need a lot of time, better approaches are available"
+394,17,This oinly applies to a small (significant) sector of BAs - spend your efforts on helping more BAs!
+396,92,"interesting, but sounds too theoretical for real project life"
+397,107,first things first. Big-bang integration are history in an agile world. Design and architecture have major impact on complexity.
+398,16,Cannot be representative because it is highly depending on experience of the reader
+400,2,Processes and frameworks almost always fail because they don't take into account the context of a given adoption. This is true even for processes that have had years of exposure in the field. I don't see for research can reasonably do better. 
+401,75,It seems more literature on advises about how to apply RE in a particular domain.
+404,100,I suspect is no different to any other process to un-earth requirements. It would  not add much value.
+418,24,Blablabla 
+420,22,it's important if one is searching for a good tool to do RE. I did this once and it was difficult.
+421,20,Not relevant in practical settings 
+421,63,Understandability of requirements is not the biggest problem in RE.
+428,81,Not relevant to my company.
+429,4,"The research is too academy oriented, it mixes so many aspects, I doubt that it can lead to practical results, other than the ones that can be obtained in a controlled environment with a very reduced set of requirements. "
