@@ -100,3 +100,5 @@ ENV/
 # mypy
 .mypy_cache/
 notebooks_html
+graphics
+analysis/olddata
