@@ -1,13 +1,13 @@
-lfdn,v_16,v_16_coded
-139,Customer facing software products,(Business) information systems
-240,"Different, consumer platforms, mobile Apps etc.",(Business) information systems
-245,Aeronautics ,Hybrid / mix of embedded systems and information systems
-310,"Requirements Engineering tools, compilers and other information systems.",(Business) information systems
-341,Railway systems,Hybrid / mix of embedded systems and information systems
-354,"machinery, intralogistic systems",Hardware
-363,firmware/microprocessor systems,Hardware
-515,"network / infrastructure, systems (HW + embedded + SW), organisation",Hardware
-590,all the above,Hybrid / mix of embedded systems and information systems
-784,online education systems,(Business) information systems
-885,ERP,(Business) information systems
-906,"All of the above, along with hardware ",Hybrid / mix of embedded systems and information systems
+lfdn;v_16;v_16_coded
+139;Customer facing software products;(Business) information systems
+240;Different, consumer platforms, mobile Apps etc.;(Business) information systems
+245;Aeronautics ;Hybrid / mix of embedded systems and information systems
+310;Requirements Engineering tools, compilers and other information systems.;(Business) information systems
+341;Railway systems;Hybrid / mix of embedded systems and information systems
+354;machinery, intralogistic systems;Hardware
+363;firmware/microprocessor systems;Hardware
+515;network / infrastructure, systems (HW + embedded + SW), organisation;Hardware
+590;all the above;Hybrid / mix of embedded systems and information systems
+784;online education systems;(Business) information systems
+885;ERP;(Business) information systems
+906;All of the above, along with hardware ;Hybrid / mix of embedded systems and information systems
