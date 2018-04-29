@@ -1,0 +1,13 @@
+In an imaginary survey, v_42 asks respondents to name their favorite meal component;
+the algorithm performs coding to enable grouping by types of produce.
+
+Original code file:
+
+lfdn;v_42;v_42_coded
+1001,Tomato,Vegetable
+
+Your correction in the correction log:
+
+lfdn;old_code;new_code;reasoning
+1001;Vegetable;Fruit;"Tomatoes classified as vegetables; scientifically they are fruit"
+

@@ -1,0 +1,17 @@
+In an imaginary survey, respondents are asked to rate produce
+and to give reasons for particularly negative ratings.
+The algorithm performs coding to enable grouping by characteristic aspects of reasoning.
+
+Original code file:
+
+ProduceID,;lfdn;reasoning;Tag
+42,100;"Too healthy; takes hours to prepare; expensive";reason:nothealthy
+42,100;"Too healthy; takes hours to prepare; expensive";reason:tooexpensive
+
+Code file after your corrections (you correct one tag and add another tag):
+
+ProduceID,lfdn;reasoning;Tag
+42,100;"Too healthy; takes hours to prepare; expensive";reason:toohealthy
+42,100;"Too healthy; takes hours to prepare; expensive";reason:toocomplicated
+42,100;"Too healthy; takes hours to prepare; expensive";reason:tooexpensive
+
