@@ -1,7 +1,13 @@
 # repract2018
-Data Analysis for the 2018 Edition of the RE-Pract Survey
 
-Final Data in the folder `data/codedtruth` (csv headers explained): 
+This project, although directly based on the NaPiRE data, is a collaboration lead by Daniel Mendez and Xavier Franch. The RE-Pract Survey aims at exploring the perceived relevance of surveyed practitioners on the RE-related publications from past years.
+
+**Status:** Current survey run and data analysis is closed (Publication Writing).
+
+
+The repository includes the material from the data analysis for the 2018 Edition of the RE-Pract Survey.
+
+Final Data in the folder `data/codedtruth` (csv headers explained):
 - `truth_metadata.csv`: lfdn plus all respondent metadata with coded/integrated columns for `v_5/v_6`, `v_15/v_16`, `v_11` and `v_19` appended (for aggregation of ratings over respondent metadata)
 - `truth_overflow.csv`: lfdn,`v_18`,`v_1373` (variables yet to code)
 - `truth_ratings.csv`: lfdn,PaperID,rating (ordinal ratings)
@@ -12,6 +18,6 @@ Final Data in the folder `data/codedtruth` (csv headers explained):
 The rest of the `_final` files in the folder are helper files (integrated in the files explained above).
 
 These files were generated in `documentation/response_integration_notebooks` (because it was close to the validated used in the process).
-The work in `analysis` is based on the preliminary data. 
-Notebooks based on the truth data will be put in a `truth` folder inside the `notebooks` folder, not sure where I'll put the helpers or results yet. 
+The work in `analysis` is based on the preliminary data.
+Notebooks based on the truth data will be put in a `truth` folder inside the `notebooks` folder, not sure where I'll put the helpers or results yet.
 Sorry for the folder mess.
