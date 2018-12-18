@@ -1,6 +1,6 @@
 # repract2018
 
-This project, although directly based on the NaPiRE data, is a collaboration lead by Daniel Mendez and Xavier Franch. The RE-Pract Survey aims at exploring the perceived relevance of surveyed practitioners on the RE-related publications from past years.
+This project, although directly based on the NaPiRE data, is a collaboration lead by Daniel Mendez, Xavier Franch and Andreas Vogelsang. The RE-Pract Survey aims at exploring the perceived relevance of surveyed practitioners on the RE-related publications from past years.
 
 **Status:** Current survey run and data analysis is closed (Publication Writing).
 
