@@ -2,7 +2,7 @@ import pandas as pd, os
 import seaborn as sns, matplotlib.pyplot as plt, numpy as np
 sns.set_style('darkgrid')
 
-base = '../../data/codedtruth'
+base = '../data/codedtruth'
 dfdict = {x[:-4]:pd.read_csv(f'{base}/{x}') for x in os.listdir(base) 
           if x.endswith('.csv') and 'coded' not in x}
 
@@ -21,7 +21,7 @@ def plot_sample(df, var, varname):
     plt.xlabel('Number of Respondents', fontsize = 16)
     plt.ylabel(varname, fontsize = 16)
     plt.tight_layout()
-    plt.savefig("plots/"+varname+".png")
+    plt.savefig("../plots/"+varname+".png")
 
 sizes = ['Small (1-4)', 'Medium (5-10)', 'Larger (10-49)', 'Very large (50+)']
 
@@ -48,7 +48,7 @@ def plot_df(df, var, varname, absolute=True):
     plt.xlabel('Number of Ratings' if absolute else 'Percentage of Ratings', fontsize=16)
     plt.ylabel(varname,fontsize=16)
     plt.legend(loc='upper center',bbox_to_anchor=(0.5, -0.1), ncol=4)
-    plt.savefig("plots/"+varname+".png")
+    plt.savefig("../plots/"+varname+".png")
     plt.tight_layout()
     
 def split_tags(old_df, level_4=False):
