@@ -45,9 +45,18 @@ def plot_df(df, var, varname, absolute=True):
         data.div(data.sum(axis=1).values, axis=0).plot.barh(stacked=True, cmap='bwr', alpha=0.5, figsize=(10,6))
         plt.xlim((0,1))
         plt.xticks(np.arange(0,1.01,0.1))
+        # make labels
+        bars = plt.gca().patches
+        labels = data.sum(axis=1)
+        labels = labels.apply(lambda x: "n = " + str(x))
+        for bar, label in zip(bars, labels):
+            plt.gca().text(1.05, bar.get_y(), label,
+            ha='center', va='bottom')
+    plt.subplots_adjust(left=0.3)
     plt.xlabel('Number of Ratings' if absolute else 'Percentage of Ratings', fontsize=16)
     plt.ylabel(varname,fontsize=16)
     plt.legend(loc='upper center',bbox_to_anchor=(0.5, -0.1), ncol=4)
+    
     plt.savefig("../plots/"+varname+".png")
     plt.tight_layout()
     
@@ -101,3 +110,4 @@ def plot_tag_ratings(df, sort_values=True, rel=False, step=25):
         plt.xlim((0,1))
         plt.xticks(np.arange(0,1.01,0.1))
     plt.tight_layout()
+    plt.savefig("../plots/"+"tag"+".png")
