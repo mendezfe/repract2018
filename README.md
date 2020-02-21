@@ -14,3 +14,8 @@ The repository includes the material from the survey to increase transparency an
 * The folder `analysis` includes the results of the qualitative and quantitative analyses. 
 * The folder `notebooks` includes the jupyter notebooks used for the respective analyses. 
 * The folder `documentation` includes further exported jupyter notebooks and files from the data validation
+
+## Licencing and citation
+
+This work is licensed under CC-BY 4.0 (see the respective licence for details). When referring to the data set or the general project, please respect the authors' attribution as described in the licence. These authors can be referred to as via "Xavier Franch, Daniel Mendez, Andreas Vogelsang et al."
+
