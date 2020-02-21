@@ -39,6 +39,7 @@ def plot_df(df, var, varname, absolute=True):
                                 ].groupby(var + ['rating']).count(
         ).fillna(0).astype(int).unstack().sort_index(ascending=False)
     data.columns = data.columns.droplevel()
+    data.to_excel(r"../data/dataexports/"+varname+".xlsx")
     if absolute:
         data.plot.barh(stacked=True, cmap='bwr', alpha=0.5, figsize=(10,6)) 
     else:
@@ -91,13 +92,14 @@ def tag_stats(tagdf, all_levels, totals=True, rel=False):
         df['Total'] = df.sum(axis=1)
     return df
     
-def plot_tag_ratings(df, sort_values=True, rel=False, step=25):
+def plot_tag_ratings(df, name, sort_values=True, rel=False, step=25):
     if sort_values:
         data= df.sort_values(['Positive', ('Tag', 'Essential')])[df.columns.values[:4]]
     else:
         data = df[df.columns.values[:4]]
     data.columns = data.columns.droplevel()
     print(data)
+    data.to_excel(r"../data/dataexports/"+name+".xlsx")
     data.plot.barh(stacked=True, cmap='bwr', figsize=(9,6), alpha=0.5)
     plt.legend(loc='upper center',bbox_to_anchor=(0.4, -0.1), ncol=4)
     plt.ylabel('')
