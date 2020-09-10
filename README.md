@@ -18,4 +18,5 @@ The repository includes the material from the survey to increase transparency an
 
 This work is licensed under CC-BY 4.0 (see the respective licence for details). When referring to the data set or the general project, please respect the authors' attribution as described in the licence. These authors can be referred to as via "Xavier Franch, Daniel Mendez, Andreas Vogelsang et al."
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3678678.svg)](https://doi.org/10.5281/zenodo.3678678)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4022177.svg)](https://doi.org/10.5281/zenodo.4022177)
+
