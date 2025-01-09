@@ -13,6 +13,8 @@ The repository includes the material from the survey to increase transparency an
   - a folder `freetext` including the results for the freetext answers given in the survey
 * The folder `analysis` includes the results of the qualitative and quantitative analyses.
 * The folder `notebooks` includes the jupyter notebooks used for the respective analyses.
+* The folder `questionnaire` includes the questionnaire export as pdf.
+
 
 ## Licencing and citation
 
